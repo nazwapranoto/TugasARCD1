@@ -1,0 +1,2 @@
+git rebase ialah perintah dalam git yang berfungsi untuk menggabungkan suatu branch dan tidak membuat commit baru.
+Lebih efektif daripada git merge ketika pengerjaannya lebih dari 2.

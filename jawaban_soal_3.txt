@@ -1,0 +1,3 @@
+fork merupakan proses menyalin repository orang lain ke akun sendiri dan bisa juga mengubah namanya. 
+pull request ialah meminta kepada pemilik repository untuk menggabungkan code yang difork tadi yang sudah diperbaiki/ditambahkan
+ke dalam repoitory yang asli punya pemilik.

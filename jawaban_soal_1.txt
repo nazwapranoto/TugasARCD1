@@ -1,0 +1,7 @@
+Merge conflict terjadi ketika menggabungkan dua branch yang membuat perubahan dibaris yang sama.
+Cara mengatasi merge conflict ialah yang pertama dengan cara mengklik tulisan resolve conflicts
+yang ada digithub setelah pemberitahuan merge conflict telah terjadi,
+cara yang kedua ialah dengan cara masuk kedalam vscode kemudian ketik "git pull origin main" 
+lalu klik "accept both changes" lalu kemuadian
+kita mengirimkan perubahan tersebut ke dalam github dengan cara mengetik "git add(namafile)" 
+lalu "git commit -m "solve merge conflict" " kemudian "git push origin (branch)"
